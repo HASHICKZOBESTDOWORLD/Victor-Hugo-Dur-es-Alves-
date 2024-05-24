@@ -1,5 +1,5 @@
 
-<code style="color : red">Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos.🐱‍👤🎁✨</code>
+<code style="color : red">Meu nome é **Victor Hugo Durães Alves**,estou estudando no Alura e tenho 16 anos.🐱‍👤🎁✨</code>
 <code style="color : red">meu e-mail de comunicação pessoal e profissional é: vduraesalves1122@gmail.com e 00001105177749sp@al.educacao.sp.gov.br</code>
 
 
