@@ -1,4 +1,20 @@
-SALVE BEM VINDO AO MEU PERFIL.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.redtext {
+	color: red;
+}
+</style>
+</head>
+<body>
+
+<h1 class="redtext">Este título ficará vermelho</h1>
+<p>Este parágrafo ficará normal.</p>
+<p class="redtext">Este parágrafo ficará vermelho.</p>
+
+</body>
+</html>
 
 Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos 
 
