@@ -1,8 +1,6 @@
 SALVE BEM VINDO AO MEU PERFIL.
 
-Meu nome é Victor Hugo Durães Alves 
-Eu estou estudando no Alura 
-tenho 16 anos 
+Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos 
 
 meu contato é: vduraesalves1122@gmail.com / 00001105177749sp@al.educacao.sp.gov.br
 
