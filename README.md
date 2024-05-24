@@ -5,7 +5,7 @@
 
 <h1 class="redtext">ME APRESENTANDO</h1>
 <p class="redtext">Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos.🐱‍👤🎁✨</p>
-
+<code style="color : red">Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos.🐱‍👤🎁✨</code>
 </body>
 </html> 
 
