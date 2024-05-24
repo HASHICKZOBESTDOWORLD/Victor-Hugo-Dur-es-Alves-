@@ -9,14 +9,11 @@
 </head>
 <body>
 
-<h1 class="redtext">Este título ficará vermelho</h1>
-<p>Este parágrafo ficará normal.</p>
-<p class="redtext">Este parágrafo ficará vermelho.</p>
+<h1 class="redtext">ME APRESENTANDO</h1>
+<p class="redtext">Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos.</p>
 
 </body>
-</html>
-
-Meu nome é Victor Hugo Durães Alves,estou estudando no Alura e tenho 16 anos 
+</html> 
 
 meu contato é: vduraesalves1122@gmail.com / 00001105177749sp@al.educacao.sp.gov.br
 
